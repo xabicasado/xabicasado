@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @xabicasado
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### ℹ️ About me
 
-<!---
-xabicasado/xabicasado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! 👋 My name is Xabier Casado, but you can call me Xabi.
+
+### 🎓 Skills
+
+The stack which I feel confortable working with:
+
+- React
+- Typescript
+- Next.js
+
+I also enjoy:
+
+- Styled components
+- Tailwind CSS
+- TDD with Jest and React testing library
+
+### 🛠️ Recent projects
+
+🍳 **Cookbook**  
+Save your cooking recipes!:
+https://xabicasado.github.io/cookbook/
+
+🎧 **Music Player UI**  
+Context API based implementation:
+https://xabicasado.github.io/music-player-ui/
