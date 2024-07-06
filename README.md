@@ -20,7 +20,7 @@ I also enjoy:
 
 🍳 **Cookbook**  
 Save your cooking recipes!:
-https://xabicasado.github.io/cookbook/
+https://xabicasado.vercel.app/
 
 🎧 **Music Player UI**  
 Context API based implementation:
